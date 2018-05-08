@@ -1,0 +1,115 @@
+	a:link{color: black;}
+	a:visited{color: black;}
+	a:hover{color: black;}
+	a:active{color: black;}
+	a { text-decoration:none }
+header {
+	color: black;
+	margin: 5px;
+	margin-left: 720px;
+	padding: 5px;
+}
+nav {
+	color: black;
+	margin: 10px;
+    }
+
+nav ul {
+	list-style: none;
+	text-align: center;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 10px 0;
+}
+
+nav ul li {
+	display: inline;
+	text-transform: uppercase;
+	padding: 0 10px;
+	letter-spacing: 10px;
+}
+
+nav ul li a {
+	test-decoration: none;
+	color: white;
+}
+
+aside#left{
+	width: 250px;
+	margin-top: 40px;
+	float: left;
+}
+#left h4{
+	color: white;
+	font-size: 20px;
+}
+
+#left ul {
+		font-size: 20px;
+		color: white;
+		list-style: none;
+		text-align: center;
+}
+
+#left ul li {
+	background: #2f2f2f;
+	line-height: 75px;
+	border: 1px solid #fff;
+}
+
+#left ul li a{
+	text-decoration: none;
+	color: #FFF;
+	display block;
+}
+#left ul li a:hover {
+	background: #d40203;
+}
+
+#left ul li#active{
+	background: #d40203;
+}
+table {
+	border: 1px solid black;
+	color: #ffffff;
+	margin-left: 70px;
+	width: 1250px;
+	text-align: center; 
+}
+th.Name {
+	color: #000000;
+	background-color: #969696;
+	}
+th.com	{
+	color: #000000;
+	background-color: #969696;
+	}
+
+th.E {
+	color: #000000;
+	background-color: #b5e61d;
+	}
+th.N {
+	color: #000000;
+	background-color: #8080FF;
+	}
+th.H {
+	color: #000000;
+	background-color: #FFFF00;
+	}
+th.Ex {
+	color: #000000;
+	background-color: #a349a4;
+	}
+td.A	{
+	color: #000000;
+	background-color: #ff80ff;
+	height: 40px;
+	}
+#BGM { 
+	fontcolor: #ffffff;
+	width: 250px;
+	margin-top: 40px;
+	margin-right: 40px;
+	float: right;
+}
